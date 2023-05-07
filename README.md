@@ -21,3 +21,9 @@ for example - we are at a place and according to gps location it shows the optio
 ###Installation
 
   1. Clone the Repsitory
+
+  2. Open the vs code or any code editor
+
+  3. run on browser
+
+  4. run the website
